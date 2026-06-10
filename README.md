@@ -1,13 +1,17 @@
-<h1 align="center">Hey, I'm Ch Rehman 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>CRM Automation Engineer &nbsp;|&nbsp; AI Bot Developer &nbsp;|&nbsp; CS Student @ SHCET Lahore</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ch+Rehman+%F0%9F%91%8B;CRM+Automation+Engineer;AI+Bot+Developer;Building+Smart+Workflows" alt="Typing SVG" />
 
-<p align="center">
-  I build smart automations that save time, reduce manual work, and make businesses run smoother —
-  using tools like n8n, HubSpot, Make.com, and OpenAI API.
-</p>
+<br/>
+
+**CRM Automation Engineer &nbsp;|&nbsp; AI Bot Developer &nbsp;|&nbsp; CS Student @ SHCET Lahore**
+
+<br/>
+
+I build smart automations that save time, reduce manual work, and make businesses run smoother —
+using n8n, HubSpot, Make.com, and OpenAI API.
+
+</div>
 
 ---
 
@@ -29,19 +33,43 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| [CRM Automation (n8n)](https://github.com/digitalachievers792-jpg/crm-automation-n8n) | Lead handling, real-time notifications & CRM workflows built on n8n |
-| ALFRED — Fraud Detection | AI-powered credit card fraud detection app · React + FastAPI + RandomForest |
-| Linux File Protection System | Kernel-level file monitoring & protection · Information Security project |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏦 ALFRED — Credit Fraud Detection</h3>
+      <p>AI-powered credit card fraud detection system. Real-time predictions with 97%+ accuracy.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RandomForest-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/digitalachievers792-jpg/ALFRED-Credit-Fraud-Detection">🔗 View Project →</a>
+    </td>
+    <td width="50%">
+      <h3>⚡ CRM Automation (n8n)</h3>
+      <p>Lead handling, real-time notifications & full CRM workflow automation built on n8n.</p>
+      <p>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Webhooks-009688?style=flat-square"/>
+      </p>
+      <a href="https://github.com/digitalachievers792-jpg/crm-automation-n8n">🔗 View Project →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digitalachievers792-jpg&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalachievers792-jpg&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=digitalachievers792-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalachievers792-jpg&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digitalachievers792-jpg&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -56,3 +84,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=digitalachievers792-jpg&color=7F77DD&style=flat-square&label=Profile+Views"/>
+</div>
